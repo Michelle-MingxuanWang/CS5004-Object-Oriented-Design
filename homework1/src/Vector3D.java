@@ -1,4 +1,3 @@
-
 /**
  * This class represents a 3D vector. The vector contains components x, y, z.
  */
