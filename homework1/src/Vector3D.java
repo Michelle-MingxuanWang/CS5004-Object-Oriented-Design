@@ -3,7 +3,7 @@
  */
 
 class Vector3D {
-  private double x;
+  private float x;
   private double y;
   private double z;
   
